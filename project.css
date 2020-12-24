@@ -1,0 +1,27 @@
+h1{
+color:white;
+font-family:Brush Script MT;
+font-size:40px;
+  }
+body{
+ background-size:cover;
+ height:200px;
+  }
+img{
+opacity:0.9;
+padding:20px;
+image-shadow: 10px 10px #000;
+}
+p{
+color:white;
+font-size:40px;
+opacity:0.6;
+}
+h2{
+color:white;
+font-size:40px;
+opacity:0.6;
+}
+a{
+font-size:40px;
+}
